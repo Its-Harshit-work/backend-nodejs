@@ -21,3 +21,5 @@ On the contrary exports can be used multiple times
 */
 // exports.add = (a,b) => (a+b);
 // exports.sub = (a,b) => (a-b);
+
+//when the entire codebase is divided into smaller modules, it is known as MODULAR PROGRAMMING
